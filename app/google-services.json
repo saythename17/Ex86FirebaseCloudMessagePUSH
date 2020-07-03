@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808844196917",
+    "firebase_url": "https://ex86fca.firebaseio.com",
+    "project_id": "ex86fca",
+    "storage_bucket": "ex86fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808844196917:android:53550d3a2eabf29a3a857c",
+        "android_client_info": {
+          "package_name": "com.icandothisallday2020.ex86firebasecloudmessagepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808844196917-ngqbh3missp6e9j1hu4opjgckojtrane.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsXsTCIbbzfkT1IKgXIY0xNtEZP244EFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808844196917-ngqbh3missp6e9j1hu4opjgckojtrane.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
